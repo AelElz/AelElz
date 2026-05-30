@@ -6,9 +6,9 @@ Software Engineering student at **1337 Coding School** (42 Network) — building
 
 ## 🛠️ What I Work With
 
-**Languages:** C · C++ · Bash · Shell Script · Python (basic).
+**Languages:** C · C++ · Bash · Shell Script · Python (basic)
 
-**Areas:** Systems Programming · DevOps · Shell internals.
+**Areas:** Systems Programming · DevOps · Shell internals
 
 ---
 
