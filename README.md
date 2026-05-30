@@ -22,18 +22,3 @@ Software Engineering student at **1337 Coding School** (42 Network) — building
 ### DevOps
 - Worked on containerization, automation, and infrastructure projects
 - Hands-on with Docker, CI/CD pipelines, and system configuration
-
----
-
-## 🧠 How I Think
-
-> At 1337, there are no teachers — you learn by doing, failing, and figuring it out.
-
-I'm comfortable reading documentation, debugging at the system level, and building things I don't fully understand yet until I do.
-
----
-
-## 📫 Let's Connect
-
-Open to internships, junior roles, and interesting problems.  
-Reach me on [LinkedIn](https://linkedin.com)
