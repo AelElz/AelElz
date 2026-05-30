@@ -6,7 +6,7 @@ Software Engineering student at **1337 Coding School** (42 Network) — building
 
 ## 🛠️ What I Work With
 
-**Languages:** C · C++ · Bash  
+**Languages:** C · C++ · Bash · Shell Script · Python (basic)
 **Areas:** Systems Programming · DevOps · Shell internals
 
 ---
@@ -19,6 +19,8 @@ Software Engineering student at **1337 Coding School** (42 Network) — building
 - **Own Printf** — Recreated the `printf` function in C, handling format specifiers, variadic args, and edge cases
 - **Custom Library (libft)** — Built a personal C standard library from scratch — string handling, memory, linked lists, and more
 
-### DevOps
-- Worked on containerization, automation, and infrastructure projects
-- Hands-on with Docker, CI/CD pipelines, and system configuration
+## 🔧 Tech Stack
+
+- Tools: Git & GitHub, Make, GCC, Valgrind, Neovim, VS Code
+- OS & Environments: Linux (Ubuntu), macOS, Shell (Bash/Zsh)
+- Currently learning: Web Development ,Devops
